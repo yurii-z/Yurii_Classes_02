@@ -1,0 +1,12 @@
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/bin/Debug/netcoreapp3.1/Task2.deps.json
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/bin/Debug/netcoreapp3.1/Task2.runtimeconfig.json
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/bin/Debug/netcoreapp3.1/Task2.runtimeconfig.dev.json
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/bin/Debug/netcoreapp3.1/Task2.dll
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/bin/Debug/netcoreapp3.1/Task2.pdb
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/obj/Debug/netcoreapp3.1/Task2.csprojAssemblyReference.cache
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/obj/Debug/netcoreapp3.1/Task2.AssemblyInfoInputs.cache
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/obj/Debug/netcoreapp3.1/Task2.AssemblyInfo.cs
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/obj/Debug/netcoreapp3.1/Task2.csproj.CoreCompileInputs.cache
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/obj/Debug/netcoreapp3.1/Task2.dll
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/obj/Debug/netcoreapp3.1/Task2.pdb
+/Users/yurii_z/Projects/CBS/HW/Yurii_Classes_2/Task2/obj/Debug/netcoreapp3.1/Task2.genruntimeconfig.cache
